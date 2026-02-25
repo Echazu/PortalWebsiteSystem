@@ -7,14 +7,14 @@
 #### 网页模板引擎：thymeleaf  
 ### 运行图片：
 **前台门户界面：**
-![前台一](https://gitee.com/WQL-KXJ/PortalWebsiteSystem/raw/master/projectImage/mhu2.png)
+![前台一](https://raw.githubusercontent.com/KXJ-WQL/PortalWebsiteSystem/refs/heads/master/projectImage/mhu2.png)
   
 前台门户界面二：
-![前台二](https://gitee.com/WQL-KXJ/PortalWebsiteSystem/raw/master/projectImage/mhu5.png)
+![前台二](https://raw.githubusercontent.com/KXJ-WQL/PortalWebsiteSystem/refs/heads/master/projectImage/mhu5.png)
 
 后台登录：  
-![后台登录](https://gitee.com/WQL-KXJ/PortalWebsiteSystem/raw/master/projectImage/mhu1.png)
+![后台登录](https://raw.githubusercontent.com/KXJ-WQL/PortalWebsiteSystem/refs/heads/master/projectImage/mhu1.png)
 
 后台：
-![后台](https://gitee.com/WQL-KXJ/PortalWebsiteSystem/raw/master/projectImage/mhu3.png)
+![后台](https://raw.githubusercontent.com/KXJ-WQL/PortalWebsiteSystem/refs/heads/master/projectImage/mhu3.png)
  
